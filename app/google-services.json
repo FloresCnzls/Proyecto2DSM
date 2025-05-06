@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937513623562",
+    "project_id": "logindsm-a8cd6",
+    "storage_bucket": "logindsm-a8cd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937513623562:android:ae8eb15f728afd8a20bff3",
+        "android_client_info": {
+          "package_name": "com.example.logindsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBChzJjmlRBGKwM8hZiEHU4rssxw2rGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
