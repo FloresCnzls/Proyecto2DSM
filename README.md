@@ -52,8 +52,8 @@ IntelliJ IDEA o Android Studio.
 API 35.
 Dependencias Principales:
 
-com.google.firebase:firebase-auth:23.1.0
-com.google.firebase:firebase-firestore:25.1.1
+#com.google.firebase:firebase-auth:23.1.0
+#com.google.firebase:firebase-firestore:25.1.1
 com.google.firebase:firebase-storage:21.0.1
 com.google.android.gms:play-services-auth:21.2.0
 com.github.bumptech.glide:glide:4.15.1
