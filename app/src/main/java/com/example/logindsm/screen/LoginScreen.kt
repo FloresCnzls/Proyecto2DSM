@@ -131,14 +131,5 @@ fun LoginScreen(modifier: Modifier = Modifier,navHostController: NavHostControll
             Text(text =if(isLoading)"Iniciando Sesion" else "Iniciar Sesion", fontSize = 22.sp)
         }
 
-        Button(
-            onClick = {
-            },
-            modifier = Modifier
-                .fillMaxWidth()
-                .height(60.dp)
-        ) {
-            Text("Iniciar sesión con Google")
-        }
     }
 }
